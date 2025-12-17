@@ -7,8 +7,8 @@ I enjoy building clean, scalable systems that solve real problems — and collab
 
 ## 🧠 About Me
 
-I’m the **Cofounder and CTO of [Tongo](https://tongo.app)** — a “digital concierge” SaaS platform for hotels that helps properties engage guests and streamline operations.  
-At Tongo, I’ve led technical development from the ground up: designing architecture, integrating with hotel property systems, and building an AI layer that personalizes guest experiences.
+I've led development of [Tongo](https://tongo.app)** — a “digital concierge” SaaS platform for hotels that helps properties engage guests and streamline operations.  
+Through this I’ve led learned from the ground up designing architecture, integrating with hotel property systems, and building an AI layer that personalizes guest experiences.
 
 Previously, I worked as a **Network Automation Engineer at State Street**, developing Python-based automation tools and internal platforms to improve operational efficiency and system reliability at scale.
 
